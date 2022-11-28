@@ -1,0 +1,6 @@
+{"nome": "jogos vorazes", "autor": "Suzanne Collins"}
+{"nome": "Odisseia", "autor": "Odisseia"}
+{"nome": "Roube Como Um Artista", "autor": "Austin Kleon"}
+{"nome": "Como Fazer Amigos e Influenciar Pessoas", "autor": "Dale Carnegie"}
+{"nome": "Pai Rico, Pai Pobre", "autor": "Robert Kiyosaki"}
+{"nome": "As 48 leis do poder", "autor": "Robert Greene"}
